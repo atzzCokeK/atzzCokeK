@@ -10,3 +10,5 @@ Hi, I am Atsushi(@a2c). Thank you for coming and nice to meet you.
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=atzzCokeK&theme=dark" width="400"/>
 </a>
+
+[![An image of @atzzcokek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atzzcokek)](https://holopin.io/@atzzcokek)
