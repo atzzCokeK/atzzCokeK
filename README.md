@@ -5,10 +5,4 @@ Hi, I am Atsushi(@a2c). Thank you for coming and nice to meet you.
 <!-- ソースコード統計 -->
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atzzCokeK&layout=compact&theme=tokyonight)](https://github.com/atzzCokeK/)
 
-<!-- LeetCode統計 -->
-### [LeetCode Stats](https://leetcode.com/atzzCokeK/)
-<a href="https://github.com/KnlnKS/leetcode-stats">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=atzzCokeK&theme=dark" width="400"/>
-</a>
-
 [![An image of @atzzcokek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/atzzcokek)](https://holopin.io/@atzzcokek)
