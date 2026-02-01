@@ -20,6 +20,8 @@ Thank you for visiting my profile! I'm passionate about building products to imp
 
 **Copy Notion Markdown Link** - A Raycast extension that makes it easy to copy Notion page links in markdown format. Check it out and install if you find it useful!
 
+[Open Source Contributions (Pull Requests)](https://github.com/search?q=is%3Apr+author%3AatzzCokeK+is%3Apublic+archived%3Afalse&type=pullrequests&p=1)
+
 ## 💬 Let's Connect
 
 Feel free to reach out if you want to collaborate on something interesting or just have a chat!
