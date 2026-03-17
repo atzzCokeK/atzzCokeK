@@ -18,7 +18,11 @@ Thank you for visiting my profile! I'm passionate about building products to imp
 
 <a title="Install copy-notion-markdown-link Raycast Extension" href="https://www.raycast.com/atsushi_kawamura/copy-notion-markdown-link"><img src="https://www.raycast.com/atsushi_kawamura/copy-notion-markdown-link/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 
-**Copy Notion Markdown Link** - A Raycast extension that makes it easy to copy Notion page links in markdown format. Check it out and install if you find it useful!
+**Copy Notion Markdown Link** - A Raycast extension that makes it easy to copy Notion page links in markdown format.
+
+<a href="https://www.raycast.com/atsushi_kawamura/no-more-caffeine" title="Install no-more-caffeine Raycast Extension"><img src="https://www.raycast.com/atsushi_kawamura/no-more-caffeine/install_button@2x.png?v=1.1" height="64" style="height: 64px;" alt="" /></a>
+
+**No More Caffeine** - A Raycast extension that makes you avoid taking too much caffeine for your good sleep.
 
 [Open Source Contributions (Pull Requests)](https://github.com/search?q=is%3Apr+author%3AatzzCokeK+is%3Apublic+archived%3Afalse&type=pullrequests&p=1)
 
